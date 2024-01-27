@@ -1,7 +1,5 @@
 # Product-CSum-Cross
 
-# ACSA数据集
-
 共包含化妆品、汽车、餐厅三个品类
 
 **表格字段**
