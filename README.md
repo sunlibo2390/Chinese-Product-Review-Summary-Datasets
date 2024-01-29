@@ -1,5 +1,5 @@
 # Product-CSum-Dataset
-包括基于懂车帝网站用户评论构建的Product-CSum数据集，以及基于公开ACSA数据集构建的Product-CSum-Cross数据集。
+包括基于[懂车帝网站](https://www.dongchedi.com/)用户评论构建的Product-CSum数据集，以及基于公开ACSA数据集构建的Product-CSum-Cross数据集。
 
 ## Product-CSum
 基于对懂车帝网站车友圈板块中不同车型的热门评论与精选评论进行标注得到。
