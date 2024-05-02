@@ -1,4 +1,4 @@
-# Product-CSum-Dataset
+# Chinese-Product-Review-Summary-Datasets
 包括基于[懂车帝网站](https://www.dongchedi.com/)用户评论构建的Product-CSum数据集，以及基于公开ACSA数据集构建的Product-CSum-Cross数据集。
 
 ## Product-CSum
